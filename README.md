@@ -2,7 +2,7 @@
 
 Computer Engineering student focused on mobile application development.
 
-I mainly work with Flutter and Kotlin, building practical mobile applications and improving my skills in software architecture, backend development and AI.
+I mainly work with Flutter and Kotlin, building practical mobile applications while improving my skills in software architecture, backend development, and AI.
 
 ## Tech Stack
 
@@ -17,22 +17,25 @@ I mainly work with Flutter and Kotlin, building practical mobile applications an
 
 ## Current Focus
 
-- Mobile application development
-- Software architecture
-- Backend development
-- Machine learning and AI integration
+- Building production-ready mobile applications
+- Improving software architecture and state management skills
+- Learning backend development with FastAPI
+- Exploring machine learning and AI integration
 
 ## Featured Projects
 
-### Finansio
+### [Finansio](https://github.com/hasancan2004/Finansio-App)
+
 A personal finance and budget tracking application built with Flutter and Supabase.
 
-### Travel Route Optimizer
+### [Travel Route Optimizer](https://github.com/hasancan2004/travel_route_optimizer)
+
 A cross-platform route optimization application with a FastAPI backend and multi-criteria routing logic.
 
-### EV Telemetry Android
-An Android client built with Kotlin and Jetpack Compose for real-time EV telemetry using WebSockets.
+### [Maintenance Tracking App](https://github.com/hasancan2004/maintenance-tracking-app)
+
+A maintenance tracking application built with Flutter and Firebase as part of an internship project.
 
 ## Contact
 
-LinkedIn: [Hasan Can KULA](senin-linkedin-linkin)
+LinkedIn: [Hasan Can KULA](https://www.linkedin.com/in/hasan-can-kula-8251b222b/?isSelfProfile=true)
