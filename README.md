@@ -26,7 +26,7 @@ I mainly work with Flutter and Kotlin, building practical mobile applications wh
 
 ### [Finansio](https://github.com/hasancan2004/Finansio-App)
 
-A personal finance and budget tracking application built with Flutter and Supabase.
+An offline-first personal finance and budget tracking application built with Flutter and SQLite.
 
 ### [Travel Route Optimizer](https://github.com/hasancan2004/travel_route_optimizer)
 
